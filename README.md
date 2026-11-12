@@ -1,4 +1,4 @@
-Hola, soy **TioCriZpy**. Nací en Venezuela y actualmente vivo en la Región Metropolitana de Chile.
+Hola, soy **TioCriZpy**. Actualmente vivo en la Región Metropolitana de Chile.
 
 Por acá subo mis proyectos personales — sobre todo bots, herramientas web y scripts hechos principalmente con **JavaScript / Node.js**, bases de datos y algo de administración en Linux.
 
