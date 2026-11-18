@@ -8,6 +8,6 @@ Por acá subo mis proyectos personales — sobre todo bots de Discord, aplicacio
 - **Datos e Infraestructura:** **MongoDB / Mongoose**, **Linux / PM2** para mantener servicios andando 24/7
 
 ### Proyectos destacados
-- **[crizpy-bot](https://github.com/TioCriZpy/crizpy-bot)** — Bot multipropósito para Discord hecho en Node.js (`discord.js` v14, MongoDB, Canvas).
+- **[crizpy-bot-showcase](https://github.com/TioCriZpy/crizpy-bot-showcase)** — Showcase de arquitectura y producto de **CriZpy-Bot**, bot multipropósito para Discord en Node.js (`discord.js` v14, MongoDB, Canvas).
 - **[radio-crizpy-bot](https://github.com/TioCriZpy/radio-crizpy-bot)** — Cog para Red-DiscordBot + Lavalink que expone una API REST y WebSocket en FastAPI con sincronización bidireccional en Discord.
 - **[crizpy-media-player](https://github.com/TioCriZpy/crizpy-media-player)** — Reproductor web estilo Windows Media Player XP en React + Vite con visualizadores Canvas 2D, OAuth2, MediaSession y PWA para controlar Radio CriZpy.
